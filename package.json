@@ -1,0 +1,9 @@
+{
+  "name": "react-components-package-example",
+  "version": "1.0.0",
+  "description": "An example repository for React Components Package",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/tomoya/react-components-package-example.git",
+  "author": "Tomoya Otake <tomoya.ton@gmail.com>",
+  "license": "MIT"
+}
